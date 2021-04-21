@@ -1,0 +1,11 @@
+<오늘의 명언>
+
+1. fireBase remote Config 이용
+ - 명언과 이름을 제어할 수 있게
+ - 코드 수정 없이 명언을 추가할 수 있다.
+ - 코드 수정없이 이름을 숨길 수 있다.
+ - 무한 스와이프 할 수 있다.
+
+<이용 기술>
+2. Firebase Remote Config
+3. ViewPager2
