@@ -26,6 +26,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //TODO: get RemoteConfig Instance
+        initRemoteConfig()
+
+    }
+
+    private fun initRemoteConfig() {
         remoteConfig = Firebase.remoteConfig
 
         remoteConfig.fetchAndActivate().addOnCompleteListener{
