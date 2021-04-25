@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AOP-Part3-Chapter2</string>
+    <string name="testSaying">나는 결코 성공에 대해 꿈꾸지 않았다. 나는 꿈을 위해 행동했다.</string>
+    <string name="testPeople">Estee Lauder</string>
 </resources>
